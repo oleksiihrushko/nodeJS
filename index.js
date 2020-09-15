@@ -25,5 +25,3 @@ function invokeAction({ action, id, name, email, phone }) {
 }
 
 invokeAction(argv);
-
-// contacts.addContact('Lsdad', 'djpopo@gdsf.ru', '(093) 242-2312');
